@@ -1,0 +1,21 @@
+{
+  "name": "SVF - Sistema de Vendas Franco",
+  "homepage": "https://github.com/jonasbfranco/SVF---Sistema-de-Vendas-Franco",
+  "authors": [
+    "Jonas B. Franco"
+  ],
+  "description": "Sistema de Vendas",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
